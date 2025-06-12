@@ -172,7 +172,7 @@ com base no seu salário mensal e horas trabalhadas por mês.
 
 # ganha_por_hora= valor_hora(horas_trabalhadas, salario_mensal)
 # print(f'Você ganha R$ {ganha_por_hora:.2f} por horas trabalhadas')
-# ''''''
+''''''
 
 '''
 Jogo: Faça um código onde o usuário digite um número e esse número precisa ser igual ao número aleatóriamente. 
