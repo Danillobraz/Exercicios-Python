@@ -6,5 +6,5 @@ Exercicíos feitos no curso de python 3 do básico ao avançado
 
 ```text
 ''''''
-Toda vez que aparecer essas 6 aspas simples significa: O termino do exercício
+Toda vez que aparecer essas 6 aspas simples, significa: O termino do exercício
 ```
